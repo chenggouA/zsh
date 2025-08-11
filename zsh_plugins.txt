@@ -1,0 +1,9 @@
+git
+z
+sudo
+extract
+command-not-found
+zsh-users/zsh-autosuggestions
+zsh-users/zsh-completions
+zdharma-continuum/fast-syntax-highlighting
+you-should-use
